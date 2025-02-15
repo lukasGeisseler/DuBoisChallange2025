@@ -14,6 +14,8 @@ wheels/
 # Virtual environments
 .venv
 .python-version
+.ruff_cache
+.venv/
 
 # Insta snapshots.
 *.pending-snap

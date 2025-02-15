@@ -3,7 +3,7 @@ name = "duboischallange2025"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=6.29.5",
     "matplotlib>=3.9.4",
